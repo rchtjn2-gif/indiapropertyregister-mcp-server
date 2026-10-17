@@ -1,0 +1,20 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "com.indiapropertyregister/mcp",
+  "title": "India Property Register",
+  "description": "Indian states, districts, tehsils and villages (LGD codes) and where each state keeps land records",
+  "version": "1.0.0",
+  "websiteUrl": "https://indiapropertyregister.com/api",
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://indiapropertyregister.com/mcp"
+    }
+  ],
+  "icons": [
+    {
+      "src": "https://indiapropertyregister.com/icon-512.png",
+      "mimeType": "image/png"
+    }
+  ]
+}
