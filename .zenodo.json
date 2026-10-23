@@ -1,0 +1,26 @@
+{
+  "title": "India Property Register MCP server",
+  "upload_type": "software",
+  "description": "<p>Model Context Protocol (MCP) server for Indian states, districts, tehsils and villages (LGD codes) and where each state keeps land records, usable from Claude, ChatGPT, Cursor and other MCP clients.</p><p>Website: <a href=\"https://indiapropertyregister.com\">https://indiapropertyregister.com</a><br>Source: <a href=\"https://github.com/rchtjn2-gif/indiapropertyregister-mcp-server\">https://github.com/rchtjn2-gif/indiapropertyregister-mcp-server</a></p>",
+  "creators": [
+    {
+      "name": "Mittal, Sunny",
+      "affiliation": "India Property Register"
+    }
+  ],
+  "license": "MIT",
+  "keywords": [
+    "MCP",
+    "Model Context Protocol",
+    "India",
+    "open data",
+    "India Property Register"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://indiapropertyregister.com",
+      "relation": "isDocumentedBy",
+      "resource_type": "other"
+    }
+  ]
+}
